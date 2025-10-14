@@ -1,7 +1,9 @@
 SMART INVENTORY MANAGER
+
 This is an Android project that utilizes the Gemini API for real-time, intelligent inventory management. It integrates camera functionality to perform object detection, counting, and tracking of inventory items.
 
 ✨ Features
+
 Real-Time Inventory Management: Provides up-to-the-minute updates on stock levels.
 
 Camera Integration: Uses the device's camera for scanning and analysis of inventory.
@@ -17,6 +19,7 @@ Tracking: Monitors the movement and location of items.
 Accuracy and Reliability: Developed with a strong focus on quality assurance.
 
 ⚙️ Technologies Used
+
 Platform: Android
 
 Language: Java (Specify based on actual project)
